@@ -1,7 +1,0 @@
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\bin\Debug\Presentacion9.exe.config
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\bin\Debug\Presentacion9.exe
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\bin\Debug\Presentacion9.pdb
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\obj\Debug\Presentacion9.csproj.AssemblyReference.cache
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\obj\Debug\Presentacion9.csproj.CoreCompileInputs.cache
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\obj\Debug\Presentacion9.exe
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion9\obj\Debug\Presentacion9.pdb

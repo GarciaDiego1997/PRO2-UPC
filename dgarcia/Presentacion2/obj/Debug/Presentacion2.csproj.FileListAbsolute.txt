@@ -1,7 +1,0 @@
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\bin\Debug\Presentacion2.exe.config
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\bin\Debug\Presentacion2.exe
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\bin\Debug\Presentacion2.pdb
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\obj\Debug\Presentacion2.csproj.AssemblyReference.cache
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\obj\Debug\Presentacion2.csproj.CoreCompileInputs.cache
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\obj\Debug\Presentacion2.exe
-D:\MATERIAS CUMBRE\PROGRAMACION 2 NUEVO\Codigo Facilito\Presentacion2\obj\Debug\Presentacion2.pdb
