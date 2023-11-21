@@ -1,6 +1,5 @@
-﻿using System;
-
-public class Ejemplo_05_10a
+using System;
+public class EjemploRecursividad
 {
 
     public static long Factorial(int n) 
@@ -17,5 +16,4 @@ public class Ejemplo_05_10a
         num = Convert.ToInt32(System.Console.ReadLine()); 
         Console.WriteLine("Su factorial es: {0}", Factorial(num));
     }
-  
 }
